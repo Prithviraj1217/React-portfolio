@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.d4103bcf.css",
-    "main.js": "/React-portfolio/static/js/main.1cdae45f.js",
+    "main.js": "/React-portfolio/static/js/main.b621a6e8.js",
     "static/media/Plane.png": "/React-portfolio/static/media/Plane.dd4c2de94e576dccef3e.png",
     "static/media/dungeon_12.png": "/React-portfolio/static/media/dungeon_12.6699c98893145b1df661.png",
     "static/media/Dinosaur.png": "/React-portfolio/static/media/Dinosaur.433f2332c12beb8218da.png",
     "static/media/dungeon_22.png": "/React-portfolio/static/media/dungeon_22.a396b85a2354aeb747de.png",
     "static/media/dungeon_2.png": "/React-portfolio/static/media/dungeon_2.b6bd24bb6778104f677a.png",
     "static/media/Lighthouse.png": "/React-portfolio/static/media/Lighthouse.5d2012f8243f47ed4d73.png",
+    "static/media/geolocation API.png": "/React-portfolio/static/media/geolocation API.7ea552c9632cc45b5bcf.png",
     "static/media/Tasks.png": "/React-portfolio/static/media/Tasks.484e4fd77c09aba312cd.png",
     "static/media/Battery.png": "/React-portfolio/static/media/Battery.b40320423d5253447437.png",
     "static/media/profileNew.jpg": "/React-portfolio/static/media/profileNew.b264c710a44ee379f96d.jpg",
     "index.html": "/React-portfolio/index.html",
     "main.d4103bcf.css.map": "/React-portfolio/static/css/main.d4103bcf.css.map",
-    "main.1cdae45f.js.map": "/React-portfolio/static/js/main.1cdae45f.js.map"
+    "main.b621a6e8.js.map": "/React-portfolio/static/js/main.b621a6e8.js.map"
   },
   "entrypoints": [
     "static/css/main.d4103bcf.css",
-    "static/js/main.1cdae45f.js"
+    "static/js/main.b621a6e8.js"
   ]
 }
