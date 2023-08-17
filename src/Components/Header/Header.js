@@ -5,7 +5,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <div className="header-container">
-      {/* header content */}
+     
       <div className="header-content">
         <h1>My name is</h1>
         <h2 className="fullname">Prithvi</h2>
@@ -33,18 +33,10 @@ const Header = () => {
         <br></br>
         <h2>This site is made by me.</h2>
         <p></p>
-        {/* payment links */}
-        
-        {/*<div className="header-payment-container">
-          <button>Hire Me</button>
-          <i className="fa-brands fa-paypal"></i>
-          <i class="fa-brands fa-cc-visa"></i>
-          <i class="fa-brands fa-cc-mastercard"></i>
-          <i class="fa-brands fa-cc-amex"></i>
-          </div>*/}
+       
           </div>
 
-      {/* Image container */}
+    
       <div className="profile-img-container">
         <img src={profileImg} alt="" />
         <div className="circle-1"></div>
