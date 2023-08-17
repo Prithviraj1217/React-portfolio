@@ -9,9 +9,6 @@ import w10 from "../../assets/geolocation API.png";
 import w11 from "../../assets/GIF.gif";
 
 
-//const video =document.createElement('video');
-//video.src='Animation'
-
 
 const Works = () => {
   return (
